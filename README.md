@@ -4,6 +4,9 @@ Non ELS fire department skin pack I created for FiveM
 
 * Fill free to add or edit these designs
 
+I make custom skins for servers, to see some of my work join my Discord:
+https://discord.gg/wGXgPPZ
+
 # This is only the skins! you need to add these using OpenIV into the pack!
 
 (Screen Shots) <br>
